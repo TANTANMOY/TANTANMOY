@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanmoy Mandal</h1>
 <h3 align="center">FullStack Web Developer || UI-UX Designer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tantanmoy" alt="tantanmoy" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://tantanmoy.netlify.app/projects](https://tantanmoy.netlify.app/projects)
 
 - 📝 I regularly write articles on [https://tantanmoy.netlify.app/blog](https://tantanmoy.netlify.app/blog)
