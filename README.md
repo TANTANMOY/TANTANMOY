@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanmoy Mandal</h1>
 <h3 align="center">FullStack Web Developer || UI-UX Designer</h3>
 
-- 👨‍💻 All of my projects are available at [https://tantanmoy.netlify.app/projects](https://tantanmoy.netlify.app/projects)
+- 👨‍💻 All of my projects are available at [https://tanmoymandal.com/projects](https://tanmoymandal.com/projects)
 
-- 📝 I regularly write articles on [https://tantanmoy.netlify.app/blog](https://tantanmoy.netlify.app/blog)
+- 📝 I regularly write articles on [https://tanmoymandal.com/blog](https://tanmoymandal.com/blog)
 
 - 📫 How to reach me **tanmoymandal457@gmail.com**
 
